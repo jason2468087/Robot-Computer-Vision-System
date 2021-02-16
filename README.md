@@ -32,5 +32,5 @@ Theoretical vision from rover camera
 Vision from rover camera (Unfortunately, I did not back up the screenshot on testing site)
 ![alt text](https://github.com/jason2468087/Rover-Computer-Vision-System/blob/master/README%20asset/Rover%20Vision%20Actual.jpg?raw=true)
 
-Console output of target distance and angle
+Console output of target's distance and angle
 ![alt text](https://github.com/jason2468087/Rover-Computer-Vision-System/blob/master/README%20asset/Console%20Result.png?raw=true)
